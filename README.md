@@ -13,7 +13,7 @@ This repository contains the source code for a backend application developed usi
 
 1. Clone the repository:
   ```bash
-  git clone https://github.com/....
+  git clone https://github.com/YasserLach/indatacore_backend.git
   ```
 2. Navigate to the project directory:
   ```bash
